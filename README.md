@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning ... Neural networks
 - 🤔 I’m looking for help with ... Deep Learning and deployment of projects
 - 📫 How to reach me: ... Linkedin
--->
+-->www.linkedin.com/in/makhija-amit
